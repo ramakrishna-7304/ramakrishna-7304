@@ -12,7 +12,7 @@
 * 🗄️ **Databases** — MongoDB, PostgreSQL
 * 🔐 **Auth & APIs** — JWT Authentication, REST APIs
 * 🎨 **UI** — Tailwind CSS, ShadCN UI
-* 🧩 **Strong Problem Solver** — 450+ LeetCode problems solved, deep comfort with DSA, regular interview-style practice in C++
+* 🧩 **Strong Problem Solver** — 500+ LeetCode problems solved, deep comfort with DSA, regular interview-style practice in C++
 * 📚 **CS Fundamentals** — Operating Systems, Computer Networks, DBMS, System Design, and React for interviews — learning to understand concepts deeply, not memorize them
 * 🤖 **AI Enthusiast** — LangChain, RAG, LLMs, Vector Databases, AI assistants (yes, including my own "Jarvis" ambitions)
 * 🔬 **Research-Oriented** — Recognized for research on root cause analysis of software using causal inference models
