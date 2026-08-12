@@ -1,17 +1,28 @@
-<h1 align="center">Hi, I'm Rama Krishna Gupta Devarasetty 👋</h1>
-<h3 align="center">Full-Stack (MERN) Developer • AI/ML Enthusiast • Competitive Programmer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Rama%20Krishna%20Gupta%20Devarasetty&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20(MERN)%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18"/>
 
-<p align="center">
-  🎓 Final-year B.Tech CSE @ SRM University AP (2027) &nbsp;|&nbsp;
-  🧩 450+ LeetCode problems solved &nbsp;|&nbsp;
-  🏆 National-level hackathon finalist
-</p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/YOUR_LEETCODE">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+SRM+University+AP+(2027);450%2B+LeetCode+problems+solved;Building+RAG-powered+AI+systems;Open+to+SDE+%2F+Full-Stack+%2F+AI-ML+roles" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Hackathons-National%20Finalist-2C5364?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square"/>
+
+</div>
 
 ---
 
@@ -72,23 +83,21 @@
 
 ### 🌟 Featured Projects
 
-#### 🔹 [Vidya Vani](https://github.com/ramakrishna-7304/REPO_NAME) — RAG-based AI Learning Assistant
+#### 🔹 [Vidya Vani](https://github.com/Jogith123/Nxtwave_X_OpenABuildathon.) — RAG-based AI Learning Assistant
 An AI-powered learning companion using retrieval-augmented generation to answer study questions grounded in real course material.
 `LangChain` `RAG` `Vector DB` `LLMs`
 
-#### 🔹 [WorkZen HRMS](https://github.com/ramakrishna-7304/REPO_NAME) — Role-Based HR Management Platform
+#### 🔹 [WorkZen HRMS] (https://github.com/bhanuaswanthsai/HRMS-Odoo) — Role-Based HR Management Platform
 Full-stack HRMS with role-based access control and analytics dashboards for employee, attendance, and performance data.
 `React` `Node.js` `MongoDB` `Express`
 
-#### 🔹 [Vehicle Maintenance Log System](https://github.com/ramakrishna-7304/REPO_NAME) — MERN + Domain Chatbot
+#### 🔹 [Vehicle Maintenance Log System](https://github.com/ramakrishna-7304/Vehicle_Maintenance_log) — MERN + Domain Chatbot
 Vehicle service-tracking app with a domain-specific chatbot to answer maintenance and diagnostics queries.
 `MERN Stack` `Chatbot` `REST API`
 
 #### 🔹 Kaggle ML Projects — Lung Cancer Prediction · World Population Analysis · Active Product Sales Analysis
 Applied ML/data-analysis projects covering classification, exploratory data analysis, and business insight generation.
 `Python` `Pandas` `Scikit-learn` `Data Viz`
-
-> _Update the repo links above (`REPO_NAME`) to point at your actual repositories._
 
 ---
 
@@ -111,7 +120,7 @@ Built and shipped features on the MERN stack (React, Node.js, Express, MongoDB),
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramakrishna-7304&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+   
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramakrishna-7304&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -119,17 +128,15 @@ Built and shipped features on the MERN stack (React, Node.js, Express, MongoDB),
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramakrishna-7304&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramakrishna-7304&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
 ---
 
-### 📫 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer"/>
 
-<p align="center"><i>Actively looking for SDE / Full-Stack / AI-ML internship and full-time opportunities — let's talk!</i></p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<i>Actively looking for SDE / Full-Stack / AI-ML internship and full-time opportunities — let's talk!</i>
+
+</div>
